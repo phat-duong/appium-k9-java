@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package lab_02;
 
 import java.util.Scanner;
@@ -19,4 +20,7 @@ public class MultipleIfElse {
             System.out.println("2 chai");
         }
     }
+=======
+package lab_02;public class MultipleIfElse {
+>>>>>>> origin/main
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package lab_02;
 
 public class BitwiseOperator {
@@ -16,4 +17,7 @@ public class BitwiseOperator {
         System.out.println("secondMethod");
         return true;
     }
+=======
+package lab_02;public class BitwiseOperator {
+>>>>>>> origin/main
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package lab_02;
 
 import java.util.Scanner;
@@ -14,4 +15,7 @@ public class lab_02_02 {
             System.out.println("This is odd number");
         }
     }
+=======
+package lab_02;public class lab_02_02 {
+>>>>>>> origin/main
 }

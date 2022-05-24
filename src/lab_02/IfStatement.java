@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package lab_02;
 
 import java.util.Scanner;
@@ -20,4 +21,7 @@ public class IfStatement {
         String outputMessage = isHeOnTime ? "Let's talk" : "Write a letter";
         System.out.println(outputMessage);
     }
+=======
+package lab_02;public class IfStatement {
+>>>>>>> origin/main
 }

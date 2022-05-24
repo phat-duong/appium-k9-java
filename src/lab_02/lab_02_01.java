@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package lab_02;
 
 import java.util.Scanner;
@@ -21,4 +22,7 @@ public class lab_02_01 {
             System.out.println("Obesity");
         }
     }
+=======
+package lab_02;public class lab_02_01 {
+>>>>>>> origin/main
 }

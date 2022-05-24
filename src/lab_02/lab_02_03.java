@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package lab_02;
 
 import java.util.Scanner;
@@ -25,4 +26,7 @@ public class lab_02_03 {
             System.out.println("You should decrease weight");
         }
     }
+=======
+package lab_02;public class lab_02_03 {
+>>>>>>> origin/main
 }

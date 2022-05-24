@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package lab_02;
 
 import java.util.Scanner;
@@ -9,4 +10,7 @@ public class ScannerLearning {
         int inputNumber = scanner.nextInt();
         System.out.printf("Your input number is: %d", inputNumber);
     }
+=======
+package lab_02;public class ScannerLearning {
+>>>>>>> origin/main
 }

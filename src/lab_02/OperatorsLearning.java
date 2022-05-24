@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package lab_02;
 
 public class OperatorsLearning {
@@ -11,4 +12,7 @@ public class OperatorsLearning {
         System.out.println(5/2);
         System.out.println(5%2);
     }
+=======
+package lab_02;public class OperatorsLearning {
+>>>>>>> origin/main
 }
